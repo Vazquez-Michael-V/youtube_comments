@@ -6,7 +6,7 @@ from wordcloud import WordCloud, STOPWORDS
 from datetime import datetime
 
 # Load the words.
-with open('all_comments.txt', encoding='UTF-8') as f:
+with open('all_comments_Zzpbbspsuak.txt', encoding='UTF-8') as f:
     text = f.read()
     
 
